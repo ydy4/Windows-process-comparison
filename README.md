@@ -1,5 +1,5 @@
 # Windows-process-comparison
-## Indetify Maliciouse processes
+## Identify Maliciouse processes
 This script will hepl to indetify abnormale processus by listing running processus with tasklist, then compare the result with a list of Windows legitime processes in order to extract the non-Windows processus
 ### Raw text file
 ```bash
